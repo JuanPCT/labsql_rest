@@ -12,7 +12,7 @@ import javax.sql.DataSource;
 public class DataSourceConfig {
     
     private String driverClassName = "com.mysql.cj.jdbc.Driver";
-    private String url = "jdbc:mysql://eEB66fFF2FHAhgaFDA-hB2cghgdgbHc-/railway?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
+    private String url = "jdbc:mysql://monorail.proxy.rlwy.net:40958/railway?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
     private String username = "root";
     private String password = "eEB66fFF2FHAhgaFDA-hB2cghgdgbHc-";
     
