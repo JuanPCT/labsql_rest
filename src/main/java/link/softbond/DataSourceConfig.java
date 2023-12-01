@@ -12,9 +12,9 @@ import javax.sql.DataSource;
 public class DataSourceConfig {
     
     private String driverClassName = "com.mysql.cj.jdbc.Driver";
-    private String url = "jdbc:mysql://containers-us-west-100.railway.app:6316/railway?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
+    private String url = "jdbc:mysql://eEB66fFF2FHAhgaFDA-hB2cghgdgbHc-/railway?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
     private String username = "root";
-    private String password = "ml6fND95OYytkWNfFiBi";
+    private String password = "eEB66fFF2FHAhgaFDA-hB2cghgdgbHc-";
     
     private DataSource dataSource;
 
